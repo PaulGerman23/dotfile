@@ -1,0 +1,3 @@
+# Desactivar el resaltado de sintaxis complejo para mejorar la velocidad
+bleopt highlight_syntax=
+bleopt highlight_filename=

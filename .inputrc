@@ -1,0 +1,13 @@
+# Búsqueda en el historial basada en lo que ya escribiste
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+# Autocompletar ignorando mayúsculas/minúsculas
+set completion-ignore-case On
+
+# Mostrar todas las coincidencias al presionar Tab, en lugar de pitar
+set show-all-if-ambiguous On
+
+# Añadir colores a las sugerencias del tabulador
+set colored-stats On
+set colored-completion-prefix On

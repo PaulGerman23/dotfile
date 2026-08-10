@@ -1,0 +1,27 @@
+[colors.primary]
+background = "#000b1e"
+foreground = "#0abdc6"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#ea00d9"
+
+[colors.normal]
+black = "#000000"
+red = "#ff0000"
+green = "#00ff00"
+yellow = "#f3e600"
+blue = "#133e7c"
+magenta = "#ea00d9"
+cyan = "#0abdc6"
+white = "#d7d7d5"
+
+[colors.bright]
+black = "#000000"
+red = "#ff0000"
+green = "#00ff00"
+yellow = "#f3e600"
+blue = "#133e7c"
+magenta = "#ea00d9"
+cyan = "#0abdc6"
+white = "#d7d7d5"
