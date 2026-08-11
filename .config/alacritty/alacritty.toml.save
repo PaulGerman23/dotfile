@@ -15,7 +15,7 @@ lines = 24
 
 [window.padding]
 x = 5
-y = 5
+y = 5q
 
 [terminal.shell]
 program = "/usr/bin/zsh"
